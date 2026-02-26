@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adam%20Balogun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Builder%20%7C%20Founder&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=Software%20Engineer%20%7C%20Builder%20%7C%20Founder&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,6 @@
 
 <br/>
 
-<!-- Intro -->
 <div align="center">
   <h3>🚀 Software Engineer & Full-Stack Builder</h3>
   <p><strong>CTO & Co-founder @ Hytribe Inc.</strong> · 🌐 Hybrid · 🇺🇸 New York</p>
@@ -33,7 +32,6 @@
 📱 Hello.Serene     →  Mental health app for university students  [LIVE on App Store, 75+ users]
 💸 Luvas            →  USDC stablecoin payments on Base (0.5% fee vs Stripe's 2.9%)  [YC Applicant]
 🛡️  Yikes Security  →  GitHub security scanner for indie hackers
-More projects on the way!
 ```
 
 ---
@@ -45,7 +43,7 @@ More projects on the way!
 - ⛓️ **Blockchain/Web3** — smart contracts, USDC payments, Base L2
 - 🔐 **Security-minded** — building tools that keep indie hackers safe
 - 🛡️ **Cybersecurity** — vulnerability scanning, threat detection, secure API design
-- 🏦 **Quant Finance background** → **self-taught engineer** (Georgetown · Baruch)
+- 🏦 **Finance background** → **self-taught engineer** (Georgetown MSF · Baruch BA)
 
 ---
 
@@ -125,7 +123,6 @@ More projects on the way!
 
 </div>
 
-<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=footer" width="100%"/>
 </div>
