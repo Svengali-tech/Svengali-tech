@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=Software%20Engineer%20%7C%20Builder%20%7C%20Founder&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=55" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Svengali-tech&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Svengali-tech?style=for-the-badge&color=6366f1&label=FOLLOWERS" />
-</div>
-
-<br/>
-
+<!-- Intro -->
 <div align="center">
   <h3>🚀 Software Engineer & Full-Stack Builder</h3>
   <p><strong>CTO & Co-founder @ Hytribe Inc.</strong> · 🌐 Hybrid · 🇺🇸 New York</p>
@@ -121,8 +111,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adambalogun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adambalogun)
 [![GitHub](https://img.shields.io/badge/GitHub-Svengali--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Svengali-tech)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=footer" width="100%"/>
 </div>
