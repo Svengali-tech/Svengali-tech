@@ -1,7 +1,7 @@
 <!-- Intro -->
 <div align="center">
   <h3>🚀 Software Engineer & Full-Stack Builder</h3>
-  <p><strong>CTO & Co-founder @ Hytribe Inc.</strong> · 🌐 Hybrid · 🇺🇸 New York</p>
+  🇺🇸 New York</p>
 </div>
 
 <div align="center">
