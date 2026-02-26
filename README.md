@@ -33,7 +33,7 @@
 - ⛓️ **Blockchain/Web3** — smart contracts, USDC payments, Base L2
 - 🔐 **Security-minded** — building tools that keep indie hackers safe
 - 🛡️ **Cybersecurity** — vulnerability scanning, threat detection, secure API design
-- 🏦 **Finance background** → **self-taught engineer** (Georgetown MSF · Baruch BA)
+- 🏦 **Quant Finance background** → **self-taught engineer** (Georgetown)
 
 ---
 
