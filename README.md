@@ -1,7 +1,7 @@
 <!-- Intro -->
 <div align="center">
   <h3>🚀 Software Engineer & Full-Stack Builder</h3>
-  🇺🇸 New York</p>
+  New York/US</p>
 </div>
 
 <div align="center">
