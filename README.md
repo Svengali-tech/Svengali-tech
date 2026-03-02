@@ -91,19 +91,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Svengali-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svengali-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Svengali-tech&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%"/>
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
