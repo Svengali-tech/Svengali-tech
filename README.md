@@ -21,7 +21,7 @@
 ```
 📱 Hello.Serene     →  Mental health app for university students  [LIVE on App Store, 75+ users]
 💸 Luvas            →  USDC stablecoin payments on Base (0.5% fee vs Stripe's 2.9%)  [YC Applicant]
-🛡️  Yikes Security  →  GitHub security scanner for indie hackers
+🛡️ Yikes Security   →  GitHub security scanner for indie hackers
 ```
 
 ---
@@ -33,7 +33,7 @@
 - ⛓️ **Blockchain/Web3** — smart contracts, USDC payments, Base L2
 - 🔐 **Security-minded** — building tools that keep indie hackers safe
 - 🛡️ **Cybersecurity** — vulnerability scanning, threat detection, secure API design
-- 🏦 **Quant Finance background** → **self-taught engineer** (Georgetown)
+- 🏦 **Quant Finance background** & **software engineering** (Georgetown)
 
 ---
 
