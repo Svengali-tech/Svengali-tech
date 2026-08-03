@@ -1,6 +1,6 @@
 <!-- Intro -->
 <div align="center">
-  <h3>🚀 Software Engineer & Full-Stack Builder</h3>
+  <h3>Software Engineer & Full-Stack Builder</h3>
   New York/US</p>
 </div>
 
@@ -16,17 +16,17 @@
 
 ---
 
-## 🔨 Currently Building
+## Currently Building
 
 ```
-📱 Hello.Serene     →  Mental health app for university students  [LIVE on App Store, 75+ users]
-💸 Luvas            →  USDC stablecoin payments on Base (0.5% fee vs Stripe's 2.9%)  [YC Applicant]
-🛡️ Yikes Security   →  GitHub security scanner for indie hackers
+Hello.Serene     →  Mental health app for university students  [LIVE on App Store, 75+ users]
+Luvas            →  USDC stablecoin payments on Base (0.5% fee vs Stripe's 2.9%)  [YC Applicant]
+Yikes Security   →  GitHub security scanner for indie hackers
 ```
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 - 🧠 **Product → Engineering → Deployment** — I take ideas from 0 to production
 - 📱 **iOS development** with Swift/SwiftUI + Vapor backend
@@ -38,55 +38,55 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 <div align="center">
 
-![Swift](https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Vapor](https://img.shields.io/badge/VAPOR-5AC8FA?style=for-the-badge&logo=swift&logoColor=white)
-![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-0D1117?style=flat-square&logo=swift&logoColor=FA7343)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=4B8BBE)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Go](https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=DEA584)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=659AD2)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=3C873A)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=38BDF8)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Vapor](https://img.shields.io/badge/Vapor-0D1117?style=flat-square&logo=swift&logoColor=5AC8FA)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=FFFFFF)
 
 </div>
 
 **Infrastructure & Cloud**
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Fly.io](https://img.shields.io/badge/FLY.IO-7C3AED?style=for-the-badge&logo=flydotio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Fly.io](https://img.shields.io/badge/Fly.io-0D1117?style=flat-square&logo=flydotio&logoColor=A78BFA)
 
 </div>
 
 **Cybersecurity**
 <div align="center">
 
-![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/NMAP-4CAF50?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=4CAF50)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=5BA4CF)
+![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=flat-square&logo=owasp&logoColor=FFFFFF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
 
 </div>
 
 ---
 
-## 📦 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -98,7 +98,7 @@
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
