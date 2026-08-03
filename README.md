@@ -30,6 +30,7 @@
 
 - 🧠 **Product → Engineering → Deployment** — I take ideas from 0 to production
 - 📱 **iOS development** with Swift/SwiftUI + Vapor backend
+- ⚙️ **Systems & performance** — Rust matching engines, Go services, low-latency data paths
 - ⛓️ **Blockchain/Web3** — smart contracts, USDC payments, Base L2
 - 🔐 **Security-minded** — building tools that keep indie hackers safe
 - 🛡️ **Cybersecurity** — vulnerability scanning, threat detection, secure API design
@@ -46,9 +47,14 @@
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Vapor](https://img.shields.io/badge/VAPOR-5AC8FA?style=for-the-badge&logo=swift&logoColor=white)
 ![Solidity](https://img.shields.io/badge/SOLIDITY-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -84,6 +90,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| **Hytribe** | Community matching platform — Rust matching engine behind a FastAPI service | Rust, Python, FastAPI, PostgreSQL |
 | [**Hello.Serene**](https://github.com/Svengali-tech/hello-serene) | Mental health app for university students | Swift, SwiftUI, Vapor, PostgreSQL |
 | **Luvas** | USDC stablecoin payments on Base, 0.5% fee | Solidity, Next.js, Base L2 |
 | **Yikes Security** | GitHub security scanner for indie hackers | Next.js, Supabase |
